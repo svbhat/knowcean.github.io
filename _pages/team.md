@@ -19,13 +19,12 @@ Our team .....
         <br>
         <br>
         <br>
-        Joana Fonseca
-        <a href="https://www.joanafonseca.com/" target="_blank">joanafonseca.com</a>
+        <a href="https://www.joanafonseca.com/" target="_blank">Joana Fonseca</a>
         <br>
         <br>
 
-        Joana Fonseca is a PhD candidate at KTH, Division of Decision and Control Systems. She received a BSc and MSc degree from Porto University, Portugal, in 2015 and 2017, respectively as well as a semester at Delft University, Netherlands, in 2015. 
-        She works with Prof. Karl H. Johansson and her research focuses on Multi- and Single-Agent Systems, Target tracking, Ocean Monitoring, Data Collection, Neural Networks and, more broadly, Marine Robotics and Control. 
+        Joana Fonseca is a PhD candidate at KTH. She received a BSc and MSc degree from Porto University, Portugal, in 2015 and 2017, respectively as well as a semester at Delft University, Netherlands, in 2015. 
+        She works with Prof. Karl H. Johansson and her research focuses on Multi- and Single-Agent Systems, Target tracking, Ocean Monitoring, Data Collection, and Data Fusion. 
         She’s also part of WOP: Women PhD and Post-Doc network and she’s very interested in feminist research and equality work in STEM and academia.
 
     </div>
