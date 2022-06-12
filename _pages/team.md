@@ -2,10 +2,13 @@
 layout: page
 permalink: /team/
 title: team
-# description: CV will go here
 nav: true
-nav_order: 3
+nav_order: 2
 ---
+
+Joana
+
+Harsha
 
 [Short CV](/assets/pdf/Joana_CV.pdf) 
 
