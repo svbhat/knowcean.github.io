@@ -6,12 +6,49 @@ nav: true
 nav_order: 2
 ---
 
-Joana
+Our team .....
 
-Harsha
+-----------------------------------------------------------------------
 
-[Short CV](/assets/pdf/Joana_CV.pdf) 
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Picture_Scientist.png" title="Picture a Scientist" class="img-fluid rounded z-depth-1" width="80" %}
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
 
-[Long CV](/assets/pdf/Long_CV.pdf)
+        <br>
+        <br>
+        <br>
+        Joana Fonseca
+        <a href="https://www.joanafonseca.com/" target="_blank">joanafonseca.com</a>
+        <br>
+        <br>
 
-![timeline](/assets/img/Timeline.png){: width="100%" }
+        Joana Fonseca is a PhD candidate at KTH, Division of Decision and Control Systems. She received a BSc and MSc degree from Porto University, Portugal, in 2015 and 2017, respectively as well as a semester at Delft University, Netherlands, in 2015. 
+        She works with Prof. Karl H. Johansson and her research focuses on Multi- and Single-Agent Systems, Target tracking, Ocean Monitoring, Data Collection, Neural Networks and, more broadly, Marine Robotics and Control. 
+        She’s also part of WOP: Women PhD and Post-Doc network and she’s very interested in feminist research and equality work in STEM and academia.
+
+    </div>
+</div>
+
+-----------------------------------------------------------------------
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Picture_Scientist.png" title="Picture a Scientist" class="img-fluid rounded z-depth-1" width="80" %}
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+
+        <br>
+        <br>
+        <br>
+        Sriharsha Bhat
+        <br>
+        <br>
+
+        .....
+
+    </div>
+</div>
+
+-------------------------------------------------
