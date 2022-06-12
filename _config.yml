@@ -2,11 +2,11 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: knowcean # the website title (if blank, full name will be used instead)
 first_name: Knowcean
 middle_name: 
 last_name: 
-email: you@example.com
+email: jfgf@kth.se
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Low-cost ​high-resolution ​ocean sensing​ and forecast​
 footer_text: >
@@ -128,8 +128,8 @@ plugins:
 
 scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+  last_name: Fonseca
+  first_name: [Joana, J.]
 
   style: apa
   locale: en
