@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: Knowcean
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+description: Low-cost ​high-resolution ​ocean sensing​ and forecast​
 
 profile:
   align: right
