@@ -16,7 +16,6 @@ Our team .....
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
 
-        <br>
         <a href="https://www.joanafonseca.com/" target="_blank">Joana Fonseca</a>
         <br>
         <br>
@@ -36,9 +35,6 @@ Our team .....
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
 
-        <br>
-        <br>
-        <br>
         Sriharsha Bhat
         <br>
         <br>
