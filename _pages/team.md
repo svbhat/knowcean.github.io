@@ -35,10 +35,10 @@ Our team .....
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
 
-        Sriharsha Bhat
+        <a href="www.linkedin.com/in/svbhat" target="_blank">Sriharsha Bhat</a>
         <br>
         <br>
-        Sriharsha Bhat is a PhD candidate at KTH. His research on 'Hydrobatics' focuses on controlling and modeling underwater robots in agile maneuvers, so that these robots can enbale new scenarios in environmental sensing, ocean production and security. Sriharsha received a bachelor's degree in Mechanical Engineering from the National University of Singapore in 2013, and a master's degree in Vehicle Engineering from KTH in 2016.  From 2013-2014, He was a Research Engineer at the Singapore MIT Alliance for Research and Technology (SMART), Singapore focusing on aerial and underwater robotics; and from 2016-2018, he was a Technology Development Engineer at Continental, Hannover, Germany. His technical strengths include model predictive control, reinforcement learning, simulation/modeling, and system identification for robots and autonomous vehicles in challenging field applications.
+        Sriharsha Bhat is a PhD candidate at KTH. His research on 'Hydrobatics' focuses on controlling underwater robots in agile maneuvers for new scenarios in environmental sensing, under-ice operations, seaweed farms, swarms and docking. Sriharsha received a bachelor's in Mechanical Engineering from the National University of Singapore in 2013, and a master's in Vehicle Engineering from KTH in 2016.  From 2013-2014, He was Research Engineer at the SMART Center, Singapore focusing on aerial and underwater robotics; and from 2016-2018, he was Technology Development Engineer at Continental, Hannover, Germany. His technical strengths include model predictive control, reinforcement learning, simulation/modeling, and system identification for field robotics.
         He is committed to using new technology to accelerate sustainable development. He is is passionate about equality, climate and human rights and is an activist with Amnesty International.
         .....
 
